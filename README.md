@@ -1,19 +1,6 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
+# My ToDo App ✓
 
-# Todoey ✓
+I developed a To-Do List iOS application using Swift and integrated the Realm database framework. The app allows users to create, manage, and organize tasks efficiently. I implemented the user interface, task creation, deletion, and editing functionalities, leveraging Swift's UIKit framework. Integrating Realm enabled seamless storage and retrieval of tasks, enhancing data persistence and synchronization across devices.
 
-## Our Goal
-
-The objective of this tutorial is to understand how to save data in iOS. We'll look at various choices and learn to use UserDefaults, Core Data and Realm.
-
-
-## What you will create
-
-A todolist app to keep track of all your tasks.
-
-
->This is a companion project to The App Brewery's Complete iOS Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
 
